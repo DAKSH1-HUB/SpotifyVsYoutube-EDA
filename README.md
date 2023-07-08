@@ -59,7 +59,7 @@ Relationship between Energy and Acousticness</br>
 Relationship between Loudness and Instrumentalness
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/ff480e19-bd48-4bcb-9d96-ebf14daa462d)
 #### Loudness and Instrumentalness have weak negative corelation ie. more is the loudness and less instrumental will be the song
-</br>
+
 
 #### Top 10 Danceable songs on both Platform:-
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/89980bb2-d4ae-4d0d-a09f-4be21184e7d7)
@@ -68,10 +68,11 @@ Relationship between Loudness and Instrumentalness
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/8fbfcf66-3430-42dd-9186-e6d950a6258a)
 
 #### Most viewed Artists on Youtube:-
-![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/acad9855-4537-4ff5-bdab-bf312bc28a95) ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/3e275e7c-8444-40be-9bd4-becb40d573b5)
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/acad9855-4537-4ff5-bdab-bf312bc28a95)
 
+#### Most streamed Artists on Spotify:-
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/0d8ffea0-7458-40b6-b7d8-a58a3b889a52)
 
-#### Most streamed Artists on 
 
 
 
