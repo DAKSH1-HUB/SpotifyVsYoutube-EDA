@@ -1,5 +1,7 @@
 # SpotifyVsYoutube-EDA
 
+The Dataset was collected from Kaggle in order to Explore and generate Insights.</br>
+The dataset contains 20718 rows and 26 columns</br>
 It includes 26 variables for each of the songs collected from spotify. These variables are briefly described next:</br>
 
 Track: name of the song, as visible on the Spotify platform.</br>
@@ -29,7 +31,29 @@ Comments: number of comments.</br>
 Description: description of the video on Youtube.</br>
 Licensed: Indicates whether the video represents licensed content, which means that the content was uploaded to a channel linked to a YouTube content partner and then claimed by that partner.</br>
 official_video: boolean value that indicates if the video found is the official video of the song.</br>
+</br>
+## Insights
 
+Danceability score comparison:-</br>
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/eb83c90e-f92a-45d3-9ace-fba247238c67)
+
+Based on Correlation between variables, Major relations are:-</br>
+
+Relationship between Loudness and Acousticness</br>
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/7447b261-6fe5-4c19-adcb-fb88393d6603)
+
+#### Loudness and Acousticness have inverse relation ie. more the loudness and less the song will be acoustic.
+
+Relationship between Loudness and Energy</br>
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/15bea8f9-05c9-4a37-817d-5d7f72f4e76f)
+
+
+
+Relationship between Energy and Acousticness</br>
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/b2ce58f9-7425-496e-bf2e-5bbc7e1b6a35)
+
+Relationship between Loudness and Instrumentalness
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/ff480e19-bd48-4bcb-9d96-ebf14daa462d)
 
 
 
