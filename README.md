@@ -38,28 +38,40 @@ Danceability score comparison between Album, single song, and compilation:-</br>
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/eb83c90e-f92a-45d3-9ace-fba247238c67)
 
 #### we can observe that people tend to prefer dance on single songs followed by albums.</br>
+
 Based on Correlation between different parameters of songs , Major relations are:-</br>
 
 Relationship between Loudness and Acousticness</br>
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/7447b261-6fe5-4c19-adcb-fb88393d6603)
-</br>
 #### Loudness and Acousticness have negative correlation ie. more the loudness and less the song will be acoustic.
 </br>
+
 Relationship between Loudness and Energy</br>
-
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/15bea8f9-05c9-4a37-817d-5d7f72f4e76f)
-
 #### Loudness and Energy have Positive correlation ie. more the loudness and more the song will be energetic.
+</br>
 
 Relationship between Energy and Acousticness</br>
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/b2ce58f9-7425-496e-bf2e-5bbc7e1b6a35)
-
 #### Energy and acousticness have moderate negative correlation ie. more is the energy and less acoustic will be the song.
 </br>
+
 Relationship between Loudness and Instrumentalness
-
 ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/ff480e19-bd48-4bcb-9d96-ebf14daa462d)
-
 #### Loudness and Instrumentalness have weak negative corelation ie. more is the loudness and less instrumental will be the song
+</br>
+
+#### Top 10 Danceable songs on both Platform:-
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/89980bb2-d4ae-4d0d-a09f-4be21184e7d7)
+
+#### Most liked Artist on Youtube:-
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/8fbfcf66-3430-42dd-9186-e6d950a6258a)
+
+#### Most viewed Artists on Youtube:-
+![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/acad9855-4537-4ff5-bdab-bf312bc28a95) ![image](https://github.com/DAKSH1-HUB/SpotifyVsYoutube-EDA/assets/81084807/3e275e7c-8444-40be-9bd4-becb40d573b5)
+
+
+#### Most streamed Artists on 
+
 
 
