@@ -1,8 +1,10 @@
 # SpotifyVsYoutube-EDA
 
 The Dataset was collected from Kaggle in order to Explore and generate Insights.</br>
+Data was collected from giant music streaming platform on 7th August 2023.</br>
 The dataset contains 20718 rows and 26 columns</br>
-It includes 26 variables for each of the songs collected from spotify. These variables are briefly described next:</br>
+
+It includes 26 variables for each of the songs collected from spotify & Youtube . These variables are briefly described next:</br>
 
 Track: name of the song, as visible on the Spotify platform.</br>
 Artist: name of the artist.</br>
